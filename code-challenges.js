@@ -2,7 +2,7 @@
 //
 // // To run file: navigate to the correct directory in terminal, $ node code-challenges.js
 //
-// // Pseudo coding is required.
+// // Pseudo coding is required. Test.
 //
 // // --------------------INSTRUCTOR EXAMPLE: Create a function that takes in any two strings and returns the string with more characters. Use the two sets of test variables provided.
 //

@@ -7,9 +7,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-  Your answer:
+  Your answer: test
 
-  Researched answer:
+  Researched answer: test
 
 
 
