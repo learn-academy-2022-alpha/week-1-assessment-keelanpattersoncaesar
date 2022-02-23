@@ -50,6 +50,8 @@
 // b) Verify and explain: For some reason, the code won't run in my terminal. The terminal keeps telling me that 'to.UpperCase()' is not a function. Either way, I believe the answer will change both Saturday and Sunday to uppercase.
 
 // After further research, I discovered that .toUpperCase cannot be used on the variable weekendDays, even though it holds values that are strings. You should use the .toString() first, then proceed.
+//------------------------------------------------------------------------------
+// The uppercase only works on string values. We would have to itterate through the array to get each word capitalized - Jacob's answer
 
 //
 //
